@@ -2,6 +2,7 @@
 vimrc 配置
 
 vim 教程 https://github.com/yangyangwithgnu/use_vim_as_ide
+
 插件管理软件 https://github.com/tpope/vim-pathogen
 
 使用：
